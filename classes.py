@@ -32,7 +32,7 @@ class PandasComputations:
 
         
 
-        print(list_of_cases)
+        
 
 
 
